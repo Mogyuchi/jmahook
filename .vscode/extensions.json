@@ -1,0 +1,7 @@
+{
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
+    "recommendations": [
+        "matklad.rust-analyzer",
+        "vadimcn.vscode-lldb",
+    ]
+}
